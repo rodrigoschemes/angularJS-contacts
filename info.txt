@@ -1,0 +1,21 @@
+Instalar
+- node
+- bower
+- git
+- yeoman
+- Generator Fountain Angular 1
+- gulp
+
+Preparar o projeto
+- npm install -g generator-fountain-angular1
+- yo fountain-angular-1
+	* bower
+	* pure javascript
+	* sass
+	* <enter>
+	* Hello World
+	* Angular UI Router
+
+Iniciar o projeto
+- cd documents/programacao/angular-1x/contact
+- Npm run serve
